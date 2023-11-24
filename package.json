@@ -1,0 +1,9 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "Crud Node.Js, Express, TypeORM e PostgreSQL",
+  "main": "index.js",
+  "repository": "git@github.com:laralindsay/Node.Js-CRUD.git",
+  "author": "Lara Lindsay",
+  "license": "MIT"
+}
